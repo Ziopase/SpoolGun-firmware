@@ -1,6 +1,6 @@
 {
-  "stable": "v1.9.0",
-  "stable_sha256": "15804e400b28e92cf54c71d115d609e68e4ebc0e692bd7bed44e8ca8695cf8f6",
-  "stable_size": 4764736,
+  "stable": "v1.9.1",
+  "stable_sha256": "aaf045aee99e81e3f8ec49d5ebbcc4b07d28f6fcb7d2ecb8e074d90a5b2f6a0c",
+  "stable_size": 4766240,
   "url": "https://github.com/Ziopase/SpoolGun-firmware/releases/latest"
 }
